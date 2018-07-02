@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="us">US $:</string>
+    <string name="us_amount">0</string>
+    <string name="ksh">KES Ksh:</string>
+    <string name="kes_amount">0</string>
+    <string name="convert">CONVERT</string>
+    <string name="exit">EXIT</string>
+    <string name="ustodollars">UsToKsh</string>
+    <string name="dollartoksh">KshtoUs</string>
+    <string name="instruction">You can convert Kenyan currency to US and vice versa try it out!</string>
+    <string name="reset">Reset</string>
+
+</resources>
